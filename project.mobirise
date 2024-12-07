@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CookiesLadala",
-    "currentPage": "about.html",
+    "currentPage": "CookiesLadala.html",
     "ai": {
       "prompt": "buatkan website cookies dengan strukutur website home, menu, about, store, shop. dengan warna pink putih",
       "imageSearchQuery": "cookies"
